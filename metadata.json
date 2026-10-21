@@ -1,0 +1,8 @@
+{
+  "name": "Hyper Alpha Arena",
+  "description": "Multi-exchange AI crypto trading platform with quantitative factor intelligence, market flow signal monitoring, and autonomous LLM trading agents.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
